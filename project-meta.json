@@ -1,0 +1,10 @@
+{
+  "curso": "Ciência da Computação",
+  "disciplina": "Orientação a Objetos",
+  "tema_escolhido": "10",
+  "linguagem": "TypeScript",
+  "gerenciador_dependencias": "NPM",
+  "integrantes": [
+    {"nome": "Ivanildo Marques de Souza Filho", "github_username": "ivanildomarques"}
+  ]
+}
